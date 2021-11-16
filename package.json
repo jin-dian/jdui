@@ -1,7 +1,9 @@
 {
-  "name": "jdui",
-  "version": "0.1.0",
-  "private": true,
+  "name": "jdui-vue",
+  "version": "0.1.4",
+  "private": false,
+  "author": "jindian",
+  "main": "lib/jdui.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
